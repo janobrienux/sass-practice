@@ -1,0 +1,15 @@
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: red;
+}
+
+.navbar li {
+  list-style: none;
+}
+
+.navbar button {
+  color: blue;
+}
+/*# sourceMappingURL=style.css.map */
